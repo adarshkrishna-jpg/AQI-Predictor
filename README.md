@@ -64,7 +64,13 @@ Each location opens a separate prediction page with pollutant inputs and output 
 📷 Screenshots
 Homepage:
 
-<img src="a084635a-39c8-4e74-ac4c-a090572a4ba3.png" width="700">
+![Screenshot 2025-06-26 124758](https://github.com/user-attachments/assets/cedefa12-647b-493e-9dcb-885c8dec1557)
+![Screenshot 2025-06-26 124758](https://github.com/user-attachments/assets/cedefa12-647b-493e-9dcb-885c8dec1557)
+![Screenshot 2025-06-26 124738](https://github.com/user-attachments/assets/a5ea2de7-697d-4b49-8af6-76777b3d7859)
+![Screenshot 2025-06-26 124738](https://github.com/user-attachments/assets/a5ea2de7-697d-4b49-8af6-76777b3d7859)
+
+
+
 👨‍💻 Author
 ADARSH KRISHNA SM
 📧 adarshkrishna.me@gmail.com
