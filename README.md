@@ -1,8 +1,8 @@
-🌫️ AQI Prediction Web App
+# 🌫️ AQI Prediction Web App
 A modern and minimalist Air Quality Index (AQI) Prediction web app built using Streamlit, allowing users to select a location and view predicted air quality levels based on pollutant inputs.
 
-<div align="center"> <img src="a084635a-39c8-4e74-ac4c-a090572a4ba3.png" width="800"/> </div>
 🚀 Features
+
 📍 Location-based AQI prediction (e.g., Karyavattom, Kollam, Eloor)
 
 🌐 Stylish gradient background with Google Fonts and center-aligned layout
@@ -16,6 +16,7 @@ A modern and minimalist Air Quality Index (AQI) Prediction web app built using S
 🌓 Light and dark theme support via config.toml
 
 🖼️ Tech Stack
+
 Frontend: Streamlit
 
 Backend: Python
@@ -45,7 +46,9 @@ Copy code
 ├── scale.pkl
 └── .streamlit/
     └── config.toml
+    
 🎨 UI Customization
+
 Fonts from Google Fonts (Poppins)
 
 Custom background using CSS
@@ -74,10 +77,9 @@ Homepage:
 👨‍💻 Author
 ADARSH KRISHNA SM
 📧 adarshkrishna.me@gmail.com
-🔗 [LinkedIn Profile]
+🔗 adarshkrishnaa
 📁 [Portfolio Website]
 
 📝 License
 This project is licensed under the MIT License.
 
-# project
